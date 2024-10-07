@@ -1,7 +1,7 @@
 # cf-units parser of UDUNITS-2 grammar
 
 This sub-package is an attempt to re-implement the
-[UDUNITS-2 grammar](https://www.unidata.ucar.edu/software/udunits/udunits-2.0.4/udunits2lib.html#Grammar)
+[UDUNITS-2 grammar](https://docs.unidata.ucar.edu/udunits/current/udunits2lib.html#Grammar)
 in an implementation agnostic manner, using the power of ANTLRv4.
 
 The [lexer](udunits2Lexer.g4.jinja) is a Jinja2 template which expands
